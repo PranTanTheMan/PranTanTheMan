@@ -1,9 +1,19 @@
-Hi, I'm PranTanTheMan (Pran for short)
+### Hi there, I'm Pranith 👋
 
-I write shitty code
+## I'm a Student in High School, and a Developer!
 
-16 
+## ☝️
 
-Depressed, Excited, Thrilled, Boring, Sarcastic, Alive but Dead inside, Overthinking.
+- I'm currently working on my personal portfolio 🌴
 
-If you ever feel bored, Press this link: https://bit.ly/31jqeal
+## ✌️
+
+- I'm currently learning Typescript
+
+## 👌
+
+- I love to build, create, and explore. I play video games 🎮, play tennis 🎾, and participate in Robotics 🦾
+
+### Connect with me:
+
+[<img align="left" alt="website" width="22px" src=""/>]
