@@ -4,7 +4,7 @@
 
 
 
-## I'm a student in High school, and a 16 year-old Front-End Developer!
+## I'm a student in High school, and a 17 year-old Front-End Developer!
 
 - 🌱 I’m currently learning Typescript
 - 👨‍💻 Building my personal Portfolio currently
