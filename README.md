@@ -14,13 +14,13 @@
 
 ### How you can connect with me!
 
-[![website](./img/twitter-light.svg)](https://twitter.com/PranTanTheMan)
+
 [![website](./img/twitter-dark.svg)](https://twitter.com/PranTanTheMan)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/pranith-molakalapalli-b51655135/)
+
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/pranith-molakalapalli-b51655135/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/itsyaboipranith/?hl=en)
+
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/itsyaboipranith/?hl=en)
 
 ### Languages and Tools:
