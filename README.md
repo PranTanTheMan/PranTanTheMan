@@ -52,7 +52,7 @@
             
 <br />
 
-- deadlift: 145lbs
+- deadlift: 225lbs
 - squat: 270lbs
 - bench-press: 100lbs
 
