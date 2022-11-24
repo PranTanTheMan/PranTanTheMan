@@ -1,7 +1,6 @@
 # Hello there, I'm Pranith 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/prantantheman?color=0F91D2&logo=twitter&logoColor=66C5F4&style=plastic)][twitter]                 ![Commits](https://img.shields.io/github/commit-activity/w/prantantheman/-Final--HiddenGems?style=plastic)
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/431161557041414154)](https://discord.com/users/431161557041414154)
 
 
 ## I'm a student in High school, and a 17 year-old Front-End Developer!
