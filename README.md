@@ -3,13 +3,13 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/431161557041414154)](https://discord.com/users/431161557041414154)
 
 
-## I'm a student in High school, and a 17 year-old Front-End Developer!
+## I'm a student in High school, and a 17 year-old Web Developer!
 
 - 🌱 I’m currently learning Typescript
-- 👨‍💻 Building my personal Portfolio currently
+- 👨‍💻 Making websites and stuff
 - 👯 I’m looking to build more projects (Any suggestions are great!)
-- 🥅 Future Goals: Learn more about web 3.0
-- ⚡ Fun fact: I love to play Videogames, play tennis, and spend time with friends.
+- 🥅 Future Goals: Learn more about web 3.0 + Creating APIs + many more
+- ⚡ Fun fact: I love to listen to YEAT
 
 ### How you can connect with me!
 
