@@ -3,13 +3,13 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/431161557041414154)](https://discord.com/users/431161557041414154)
 
 
-## I'm a student in High school, and a 17 year-old Web Developer!
+## I'm an undergraduate student at Arizona State University and a 18-year-old full-stack Web Developer!
 
 - 🌱 I’m currently learning Typescript
 - 👨‍💻 Making websites and stuff
 - 👯 I’m looking to build more projects (Any suggestions are great!)
 - 🥅 Future Goals: Learn more about web 3.0 + Creating APIs + many more
-- ⚡ Fun fact: I love to listen to YEAT
+- ⚡ Fun fact: Travis Scott is life! 
 
 ### How you can connect with me!
 
@@ -51,9 +51,9 @@
             
 <br />
 
-- deadlift: 225lbs
-- squat: 270lbs
-- bench-press: 100lbs
+- deadlift: 315lbs
+- squat: 290lbs
+- bench-press: 110lbs
 
 <br />
 <br />
