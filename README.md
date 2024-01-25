@@ -5,9 +5,9 @@
 
 ## I'm an undergraduate student at Arizona State University and an 18-year-old full-stack Web Developer!
 
-- 🌱 I’m currently learning Typescript
-- 👨‍💻 Making websites and stuff
-- 👯 Future Refer Me Intern working directly under Zero2Sudo
+- 🌱 I’m currently learning Rust 🦀
+- 👨‍💻 Cooking up Web Apps in the lab
+- 👯 Future Refer Me Intern 
 - 🥅 Future Goals: Learn more about web 3.0 + Creating APIs + many more
 - ⚡ Fun fact: Travis Scott is life! 
 
