@@ -3,13 +3,13 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/431161557041414154)](https://discord.com/users/431161557041414154)
 
 
-## I'm an undergraduate student at Arizona State University and an 18-year-old full-stack Web Developer!
+## I'm an undergraduate student at Arizona State University and an 19-year-old full-stack Web Developer!
 
 - 🌱 I’m currently learning Rust 🦀
 - 👨‍💻 Cooking up Web Apps in the lab
 - 👯 Building at @learneffinity
 - 🥅 Future Goals: Learn more about web 3.0 + Creating APIs + many more
-- ⚡ Fun fact: Travis Scott is life! 
+- 🎵 If it aint carti or travis sott ion want it
 
 ### How you can connect with me!
 
