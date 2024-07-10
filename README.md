@@ -2,7 +2,6 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/431161557041414154)](https://discord.com/users/431161557041414154)
 
-
 ## I'm an undergraduate student at Arizona State University and an 19-year-old full-stack Web Developer!
 
 - 🌱 I’m currently learning Rust 🦀
@@ -13,6 +12,7 @@
 
 ### How you can connect with me!
 
+<div style="display: flex;">
 
 [![website](./img/twitter-dark.svg)](https://twitter.com/PranTanTheMan)
 &nbsp;&nbsp;
@@ -21,6 +21,8 @@
 &nbsp;&nbsp;
 
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/itsyaboipranith/?hl=en)
+
+</div>
 
 ### Languages and Tools:
 
@@ -40,8 +42,33 @@
 
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/PranTanTheMan)
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trpc/trpc-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />
+
+<i  class="devicon-flask-original"></i>
+
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/PranTanTheMan)
 
 <br />
 <br />
@@ -49,8 +76,8 @@
 ### 📈 Stats and Gains
 
 [![Pranith's GitHub stats](https://github-readme-stats.vercel.app/api?username=prantantheman&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prantantheman)](https://github.com/anuraghazra/github-readme-stats)
-            
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prantantheman)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 
 - deadlift: 325lbs
