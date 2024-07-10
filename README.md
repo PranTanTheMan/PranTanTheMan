@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Rust 🦀
 - 👨‍💻 Cooking up Web Apps in the lab
-- 👯 Building at @joinperceptify
+- 👯 Building at @learneffinity
 - 🥅 Future Goals: Learn more about web 3.0 + Creating APIs + many more
 - ⚡ Fun fact: Travis Scott is life! 
 
