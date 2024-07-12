@@ -8,7 +8,7 @@
 - 👨‍💻 Cooking up Web Apps in the lab
 - 👯 Building at @learneffinity
 - 🥅 Future Goals: Learn more about web 3.0 + Creating APIs + many more
-- 🎵 If it aint carti or travis sott ion want it
+- 🎵 If it aint carti or travis scott ion want it
 
 ### How you can connect with me!
 
