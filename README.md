@@ -4,11 +4,11 @@
 
 ## I'm an undergraduate student at Arizona State University and an 19-year-old full-stack Web Developer!
 
-- 🌱 I’m currently learning Rust 🦀
-- 👨‍💻 Cooking up Web Apps in the lab
+- 🌱 I’m currently learning C/C++ 
+- 👨‍💻 Cooking up in the lab
 - 👯 Building at @learneffinity
 - 🥅 Future Goals: Learn more about web 3.0 + Creating APIs + many more
-- 🎵 If it aint carti or travis scott ion want it
+- 🎵 YVL
 
 ### How you can connect with me!
 
