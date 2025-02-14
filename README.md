@@ -88,9 +88,9 @@
 
 <br />
 
-- deadlift: 325lbs
-- squat: 415lbs
-- bench-press: 135lbs (we don't talk about this)
+- deadlift: ???
+- squat: ???
+- bench-press: ???
 
 <br />
 <br />
