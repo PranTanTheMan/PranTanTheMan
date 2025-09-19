@@ -2,13 +2,13 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/431161557041414154)](https://discord.com/users/431161557041414154)
 
-## I'm an undergraduate student at Arizona State University and an 19-year-old full-stack Web Developer!
+## I'm an undergraduate student at Arizona State University and an 20 year old janitor!
 
-- 🌱 I’m currently learning C/C++ 
+- 🌱 I’m currently learning C#
 - 👨‍💻 Cooking up in the lab
-- 👯 Building at @learneffinity
-- 🥅 Future Goals: Learn more about web 3.0 + Creating APIs + many more
-- 🎵 YVL
+- 👯 Building at....
+- 🥅 Future Goals: Learn more about web 3.0 + Agentic AI + Life
+- 🎵 YVL 🧛
 
 ### How you can connect with me!
 
