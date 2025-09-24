@@ -5,7 +5,7 @@
 ## I'm an undergraduate student at Arizona State University and an 20 year old janitor!
 
 - 🌱 I’m currently learning C#
-- 👨‍💻 Cooking up in the lab
+- 👨‍💻 Cooking up in the basement
 - 👯 Building at....
 - 🥅 Future Goals: Learn more about web 3.0 + Agentic AI + Life
 - 🎵 YVL 🧛
